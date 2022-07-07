@@ -1,8 +1,8 @@
-###dev-scm###
-### Hi this sample text ###
-#### update from dev1 ####
-######dev 2 commit #####
-####test2 0807    #########
-#####ajsfjsadfljsad l####
-############################################
-#######################################
+<html>
+<body bgcolor="Yellow">
+<body>
+<center>
+<h1>This is Dev-1 </h1>
+<font color="red"><marquee>Welcome To Devops world</marquee</font>
+</body>
+</html>
